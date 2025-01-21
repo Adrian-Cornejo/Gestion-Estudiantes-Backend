@@ -1,0 +1,692 @@
+2025.01.13 12:39:45 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes' for client Visual Studio Code 1.96.2.
+2025.01.13 12:39:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 13, 2025 12:40:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+ene 13, 2025 12:40:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+ene 13, 2025 12:40:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+ene 13, 2025 12:40:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.01.13 12:40:19 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\garci\AppData\Local\Temp\metals1626003972418170621\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.13 12:40:21 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 23.0.1)
+2025.01.13 12:40:23 INFO  [info] loading settings for project gestion-estudiantes-build-build-build from metals.sbt...
+2025.01.13 12:40:23 INFO  [info] loading project definition from C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\project\project\project
+2025.01.13 12:40:29 INFO  [info] loading settings for project gestion-estudiantes-build-build from metals.sbt...
+2025.01.13 12:40:29 INFO  [info] loading project definition from C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\project\project
+2025.01.13 12:40:43 INFO  [success] Generated .bloop\gestion-estudiantes-build-build.json
+2025.01.13 12:40:43 INFO  [success] Total time: 13 s, completed 13 ene 2025, 12:40:43 p.m.
+2025.01.13 12:40:44 INFO  [info] loading settings for project gestion-estudiantes-build from metals.sbt, plugins.sbt...
+2025.01.13 12:40:44 INFO  [info] loading project definition from C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\project
+2025.01.13 12:41:00 INFO  [success] Generated .bloop\gestion-estudiantes-build.json
+2025.01.13 12:41:00 INFO  [success] Total time: 16 s, completed 13 ene 2025, 12:41:00 p.m.
+2025.01.13 12:41:03 INFO  [info] loading settings for project root from build.sbt...
+2025.01.13 12:41:03 INFO  [info]   __              __
+2025.01.13 12:41:03 INFO  [info]   \ \     ____   / /____ _ __  __
+2025.01.13 12:41:03 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2025.01.13 12:41:03 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2025.01.13 12:41:03 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2025.01.13 12:41:03 INFO  [info]       /_/               /____/
+2025.01.13 12:41:03 INFO  [info] 
+2025.01.13 12:41:03 INFO  [info] Version 3.0.6 running Java 23.0.1
+2025.01.13 12:41:03 INFO  [info] 
+2025.01.13 12:41:03 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2025.01.13 12:41:03 INFO  [info] https://www.playframework.com/sponsors
+2025.01.13 12:41:03 INFO  [info] 
+2025.01.13 12:41:03 INFO  [info] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2025.01.13 12:41:03 INFO  [info]   Java version is 23. Play supports only Java 11, 17 and 21.
+2025.01.13 12:41:03 INFO  [info] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2025.01.13 12:41:03 INFO  [info] 
+2025.01.13 12:41:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:41:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:41:39 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2025.01.13 12:41:39 INFO  [error] java.io.IOException: Espacio en disco insuficiente
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:75)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:102)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:72)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.FileChannelImpl.implWrite(FileChannelImpl.java:371)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:351)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:68)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.nio.file.Files.write(Files.java:3521)
+2025.01.13 12:41:39 INFO  [error] 	at bloop.config.PlatformFiles$.write(PlatformFiles.scala:27)
+2025.01.13 12:41:39 INFO  [error] 	at bloop.config.package$.write(package.scala:11)
+2025.01.13 12:41:39 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.writeConfigAtomically(SbtBloop.scala:1119)
+2025.01.13 12:41:39 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.$anonfun$bloopGenerate$4(SbtBloop.scala:1083)
+2025.01.13 12:41:39 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2025.01.13 12:41:39 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+2025.01.13 12:41:39 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025.01.13 12:41:39 INFO  [error] (Global / bloopInstall) java.io.IOException: Espacio en disco insuficiente
+2025.01.13 12:41:39 INFO  [error] Total time: 35 s, completed 13 ene 2025, 12:41:39 p.m.
+2025.01.13 12:41:39 INFO  time: ran 'sbt bloopInstall' in 1m19s
+2025.01.13 12:41:39 ERROR sbt command failed: C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\garci\AppData\Local\Temp\metals1626003972418170621\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+
+2025.01.13 12:41:40 INFO  time: code lens generation in 1.61s
+2025.01.13 12:41:40 INFO  time: code lens generation in 1.61s
+
+
+2025.01.13 12:42:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:03 INFO  Shutting down server
+2025.01.13 12:43:03 INFO  shutting down Metals
+2025.01.13 12:43:03 INFO  Exiting server
+2025.01.13 12:43:38 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes' for client Visual Studio Code 1.96.2.
+2025.01.13 12:43:39 INFO  Attempting to connect to the build server...
+2025.01.13 12:43:39 INFO  No running Bloop server found, starting one.
+2025.01.13 12:43:39 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 13, 2025 12:43:42 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.01.13 12:43:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:43:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:07 INFO  Starting compilation server
+2025.01.13 12:44:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\.metals\bsp.trace.json or C:\Users\garci\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.13 12:44:09 INFO  time: Connected to build server in 29s
+2025.01.13 12:44:09 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.13 12:44:09 INFO  time: Imported build in 0.11s
+2025.01.13 12:44:09 INFO  running doctor check
+2025.01.13 12:44:09 INFO  java targets: 
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 13, 2025 12:44:12 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2025.01.13 12:44:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:22 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  time: indexed workspace in 20s
+2025.01.13 12:44:30 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:44:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:02 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:08 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 13, 2025 12:45:08 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2025.01.13 12:45:08 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:14 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 12:45:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:23 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:23 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:31 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:31 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:50 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:51 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:57 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:45:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:46:02 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:15 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 12:47:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:21 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:23 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 12:47:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:43 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:43 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:43 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:44 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala
+2025.01.13 12:47:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:43 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:49 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:49 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:51 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:51 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:51 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:47:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:31 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:48:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:35 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:37 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:39 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:39 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:39 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:44 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:45 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:58 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:52:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:00 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:00 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:00 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:00 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:01 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:03 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:03 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:03 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:06 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:07 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:08 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:09 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:11 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:10 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:13 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:13 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:13 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:13 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:14 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:15 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:15 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:16 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:16 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:16 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:18 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:20 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:21 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:21 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:21 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:21 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:21 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:22 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:22 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:22 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:22 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:23 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 12:53:23 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:53:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:49 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:50 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:50 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:52 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:56:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:08 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:11 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:18 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala
+2025.01.13 12:57:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:25 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:29 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:30 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:32 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-176-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025.01.13 12:57:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:33 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:34 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:36 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:38 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:39 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:41 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:42 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:48 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:54 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:57:56 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:09 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala
+2025.01.13 12:58:14 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:16 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:17 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:18 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:23 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:23 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 12:58:26 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:01:02 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:08:59 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  Detected new build tool in C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes
+2025.01.13 13:09:01 INFO  Disconnecting from Bloop session...
+2025.01.13 13:09:01 INFO  Shut down connection with build server.
+2025.01.13 13:09:01 INFO  Attempting to connect to the build server...
+2025.01.13 13:09:01 INFO  Found a Bloop server running
+2025.01.13 13:09:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:02 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:09:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\.metals\bsp.trace.json or C:\Users\garci\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.13 13:09:02 INFO  time: Connected to build server in 0.87s
+2025.01.13 13:09:02 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.13 13:09:01 INFO  running doctor check
+2025.01.13 13:09:01 INFO  java targets: 
+2025.01.13 13:09:04 INFO  time: indexed workspace in 2.28s
+2025.01.13 13:09:04 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt
+2025.01.13 13:09:04 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 13:09:04 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala
+2025.01.13 13:09:04 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 13:09:04 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala
+2025.01.13 13:09:05 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:10:19 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:05 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:05 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:06 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:06 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:06 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:06 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:09 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 13:36:09 INFO  Detected new build tool in C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes
+2025.01.13 13:36:10 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt
+2025.01.13 13:36:09 INFO  Disconnecting from Bloop session...
+2025.01.13 13:36:10 INFO  Shut down connection with build server.
+2025.01.13 13:36:10 INFO  Attempting to connect to the build server...
+2025.01.13 13:36:10 INFO  Found a Bloop server running
+2025.01.13 13:36:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\.metals\bsp.trace.json or C:\Users\garci\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.13 13:36:10 INFO  time: Connected to build server in 0.77s
+2025.01.13 13:36:10 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.13 13:36:10 INFO  running doctor check
+2025.01.13 13:36:10 INFO  java targets: 
+2025.01.13 13:36:12 INFO  time: indexed workspace in 1.92s
+2025.01.13 13:36:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt
+2025.01.13 13:36:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala
+2025.01.13 13:36:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala
+2025.01.13 13:36:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala
+2025.01.13 13:36:12 WARN  no build target for: C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala
+2025.01.13 13:36:12 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 13, 2025 2:02:46 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 888
+2025.01.13 14:02:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:46 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:47 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\controllers\EstudianteController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:50 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:53 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\models\Estudiante.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:02:55 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\repositories\EstudianteRepository.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:03:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:03:01 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:03:02 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:03:03 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 14:03:04 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 15:06:22 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes' for client Visual Studio Code 1.96.2.
+2025.01.13 15:06:27 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 15:17:02 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\garci\AppData\Local\Temp\metals5629826274686680184\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.13 15:17:04 INFO  sbt thinks that server is already booting because of this exception:
+2025.01.13 15:17:04 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load2905420182647735908_lock, error 5
+2025.01.13 15:17:04 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:357)
+2025.01.13 15:17:04 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:296)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:153)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:79)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:79)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:87)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain$.run(Main.scala:124)
+2025.01.13 15:17:04 ERROR 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025.01.13 15:17:04 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025.01.13 15:17:04 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:59)
+2025.01.13 15:17:04 ERROR 	at sbt.xMain.run(Main.scala:48)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2025.01.13 15:17:04 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2025.01.13 15:17:04 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load2905420182647735908_lock, error 5
+2025.01.13 15:17:04 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2025.01.13 15:17:04 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2025.01.13 15:17:04 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:351)
+2025.01.13 15:17:04 ERROR 	... 21 more
+2025.01.13 15:17:05 INFO  time: ran 'sbt bloopInstall' in 2.62s
+2025.01.13 15:17:05 ERROR sbt command failed: C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\garci\AppData\Local\Temp\metals5629826274686680184\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2025.01.13 15:17:05 INFO  no build target found for C:\Users\garci\OneDrive\Documentos\playFramework\gestion-estudiantes\app\services\EstudianteService.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.13 15:17:07 INFO  time: code lens generation in 2.82s
+2025.01.13 15:17:07 INFO  time: code lens generation in 2.81s
+2025.01.13 15:17:07 INFO  time: code lens generation in 2.82s
+2025.01.13 15:17:07 INFO  time: code lens generation in 2.82s
+2025.01.13 15:17:07 INFO  time: code lens generation in 2.81s
+2025.01.13 15:17:30 INFO  Shutting down server
+2025.01.13 15:17:30 INFO  shutting down Metals
+2025.01.13 15:17:30 INFO  Exiting server
